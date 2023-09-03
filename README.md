@@ -1,9 +1,19 @@
 # Leslie and Isaac
 
 
-# Getting Started with Create React App
+# Git help
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+to checkout branch
+> git checkout name-of-branch
+
+to add changes to branch
+> git add .
+
+to commit changes with message
+> git commit -m "MESSAGE GOES HERE"
+
+to push changes to branch
+> git push
 
 ## Available Scripts
 
