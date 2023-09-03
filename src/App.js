@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> MOTHAFUCKAAAA
         </p>
+        <p>
+          this is test 2
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
